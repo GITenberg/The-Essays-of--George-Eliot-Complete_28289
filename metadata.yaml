@@ -1,0 +1,47 @@
+_repo: The-Essays-of--George-Eliot-Complete_28289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28289-h/images/coverb.jpg
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Cross, Marian Evans
+    - Evans, Marian
+    - Lewes, Marian Evans
+    - Cross, Mary Ann
+    - Evans, Mary Anne
+    - Lewes, M. E. (Marian Evans)
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+  editor:
+    agent_name: Sheppard, Nathan
+    birthdate: 1834
+    deathdate: 1888
+    gutenberg_agent_id: '33243'
+    url: http://www.gutenberg.org/2009/agents/33243
+description: ''
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PR'
+tableOfContents: '"George Eliot''s" Analysis of Motives / N. Sheppard -- Carlyle''s
+  life of Sterling -- Woman in France: Madame de Sablé -- Evangelical teaching: Dr.
+  Cumming -- German wit: Henry Heine -- Natural history of German life -- Silly novels
+  by lady novelists -- Worldliness & other-worldliness -- The influence of rationalism
+  -- The grammar of ornament -- Felix Holt''s address to workingmen.'
+title: 'The Essays of "George Eliot"
+
+  Complete'
+url: http://www.gutenberg.org/ebooks/28289
